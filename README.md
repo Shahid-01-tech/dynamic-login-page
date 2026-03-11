@@ -34,4 +34,4 @@ This project was created as a practice project to improve my front-end developme
 3. Run `index.html` in your browser
 
 ## 📧 Author
-Milap Bhut
+Shahid-01-tech
